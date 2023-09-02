@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dusjaet8n/image/upload/v1691493016/banner_4_-removebg-preview_1_iaupuy.jpg)](https://github.com/nikhilsinha822)
+[![MasterHead](https://res.cloudinary.com/dusjaet8n/image/upload/v1693676806/BlogImages/nqinqlnhnaxxpygticfp.png)](https://github.com/nikhilsinha822)
 # 💫 About Me:
 🔭 I’m currently working on quick pens<br>🤝 I’m looking for help with building something new<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Web Development<br>⚡ Fun fact I am not a robot
 
